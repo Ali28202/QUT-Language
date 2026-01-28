@@ -94,9 +94,3 @@ Pointer: 2
 - The tape size is fixed (default: 100 cells)
 - Each cell stores an unsigned 8-bit value
 - Intended for educational and experimental purposes
-
----
-
-## 📜 License
-
-MIT License
